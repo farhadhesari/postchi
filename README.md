@@ -1,5 +1,5 @@
 # Postchi
-**A Social App Manager**  
+**A Social App Manager Panel**  
 Postchi(پستچی) is a Persian word that means “postman” in English, or someone who delivers letters.
 
 ## What does this project do?
