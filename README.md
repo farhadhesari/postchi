@@ -16,3 +16,4 @@ For now, this project is in the development process, but as soon as some feature
 
 ## How can I support this project?
 All you can do is give it a star or buy me a coffee.
+If you are a developer and would like to participate, you can fork it and commit your features. Please ensure that your code is clean and optimized.
